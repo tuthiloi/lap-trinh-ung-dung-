@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\bin\Debug\QLBH-BAL.dll
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\bin\Debug\QLBH-BAL.pdb
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\obj\Debug\QLBH-BAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\obj\Debug\QLBH-BAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\obj\Debug\QLBH-BAL.dll
+C:\Users\Admin\source\repos\QLBH\QLBH-BAL\obj\Debug\QLBH-BAL.pdb
